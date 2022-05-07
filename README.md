@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :computer: I’m currently working on [pnguon](https://www.pnguon.com/) my personal website!
+- :computer: I’m currently working on [Pedium](https://pedium.vercel.app/) my personal blog!
 - 🌱 I’m currently learning `Nextjs`, `Typescript` and `Tailwindcss` to build modern web apps :)
-- :man_technologist: My projects that I've worked is showcased on my website or found on my github
+- :man_technologist: My projects that I've worked is showcased on my website or found on my github [pnguon](https://www.pnguon.com/)
 
 # :desktop_computer: Technology and Tools
 
