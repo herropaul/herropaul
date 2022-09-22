@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: I’m currently working on [Pedium](https://pedium.vercel.app/) my personal blog!
+- :computer: I’m currently working on Discoverify (An artist discovery app)!
 - 🌱 I’m currently learning `Nextjs`, `Typescript` and `Tailwindcss` to build modern web apps :)
 - :man_technologist: My projects that I've worked is showcased on my website or found on my github [pnguon](https://www.pnguon.com/)
 
