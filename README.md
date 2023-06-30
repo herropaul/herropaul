@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :computer: I’m currently working on Discoverify (An artist discovery app)!
-- 🌱 I’m currently learning `Nextjs`, `Typescript` and `Tailwindcss` to build modern web apps :)
+- :computer: I’m currently trying to mess around with VisionOS development...
+- 🌱 I’m currently learning `Swift`, `SwiftUI` `Typescript` and `RealityKit` to build visionOS apps...
 - :man_technologist: My projects that I've worked is showcased on my website or found on my github [pnguon](https://www.pnguon.com/)
 
 # :desktop_computer: Technology and Tools
